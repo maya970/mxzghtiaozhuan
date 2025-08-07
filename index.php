@@ -5,6 +5,6 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>Redirecting to <a href="https://index.mxzgh.com/index.php">mxzgh.com</a>...</p>
+    <p>Redirecting to <a href="https://index.mxzgh.com/">mxzgh.com</a>...</p>
 </body>
 </html>
