@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=https://index.mxzgh.com/index.php">
+    <meta http-equiv="refresh" content="0; url=https://index.mxzgh.com/">
     <title>Redirecting...</title>
 </head>
 <body>
